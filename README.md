@@ -39,7 +39,7 @@ pip3 install flask requests
 1. Kliknij **“Get API Key”** lub **“Sign Up”**
 1. Załóż darmowe konto (wystarczy email i hasło)
 1. Po zalogowaniu przejdź do sekcji **“API keys”**
-1. Skopiuj swój klucz API (ciąg znaków, np. `a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6`)
+1. Skopiuj swój klucz API (ciąg znaków, np. `a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p8`)
 
 > ⏰ **Uwaga:** Aktywacja klucza API może potrwać do 2 godzin!
 
@@ -77,7 +77,7 @@ Znajdź sekcję **KONFIGURACJA** na górze pliku i wprowadź swoje dane:
 
 ```python
 # --- Konfiguracja ---
-API_KEY = "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p6"  # WKLEJ TUTAJ SWÓJ KLUCZ
+API_KEY = "a1b2c3d4e5f6g7h8i9j0k1l2m3n4o5p8"  # WKLEJ TUTAJ SWÓJ KLUCZ
 
 LATITUDE = 52.2297   # Szerokość geograficzna
 LONGITUDE = 21.0122  # Długość geograficzna
