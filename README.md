@@ -257,6 +257,6 @@ Jeśli masz problemy:
 
 -----
 
-**Autor:** [Twoje imię]  
+**Autor:** [Kamil]  
 **Wersja:** 1.0  
 **Ostatnia aktualizacja:** Październik 2024
