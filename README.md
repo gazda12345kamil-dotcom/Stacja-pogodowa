@@ -259,4 +259,4 @@ Jeśli masz problemy:
 
 **Autor:** [Kamil]  
 **Wersja:** 1.0  
-**Ostatnia aktualizacja:** Październik 2024
+**Ostatnia aktualizacja:** Październik 2025
