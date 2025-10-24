@@ -23,7 +23,7 @@ Prosta, elegancka stacja pogodowa z interfejsem webowym, która zbiera dane z Op
 ### 1. Pobierz projekt
 
 ```bash
-git clone https://github.com/twoj-username/stacja-pogodowa.git
+git clone https://github.com/gazda12345kamil-dotcom/stacja-pogodowa.git
 cd stacja-pogodowa
 ```
 
